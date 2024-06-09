@@ -42,6 +42,8 @@ footer {
 }
 footer span { float: right; font-style: italic; }
 
+#profilepic { width: 60px; height: 60px }
+
 /* Smartphones (portrait) */
 @media only screen and (max-width: 480px) {
   body { font-size: 12px;}
